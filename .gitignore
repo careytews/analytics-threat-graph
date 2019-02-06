@@ -1,0 +1,6 @@
+/threat-graph
+/vendor
+/go
+.*
+!.gitignore
+!.dockerignore
